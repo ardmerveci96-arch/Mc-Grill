@@ -1,0 +1,5 @@
+{
+  "name": "FlameGrill - Fast Food Delivery",
+  "description": "Experience the ultimate flame-grilled perfection. Order your favorite burgers, chicken, and sides for fast delivery or quick pickup.",
+  "requestFramePermissions": ["geolocation"]
+}
